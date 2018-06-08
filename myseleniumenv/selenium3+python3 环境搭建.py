@@ -16,3 +16,10 @@
 		driver.get('https://www.baidu.com/')
 """
 
+"""
+技巧：
+
+1. firepath安装	
+	浏览器中插入：https://addons.mozilla.org/en-us/firefox/addon/firepath/
+
+"""

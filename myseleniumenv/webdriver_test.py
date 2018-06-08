@@ -2,8 +2,9 @@
 
 from selenium import webdriver
 
-pcbrowser = webdriver.Chrome()
-pcbrowser.get('http://bulktask.314pay.cn/Account/Login')
+#pcbrowser = webdriver.Chrome()
+pcbrowser = webdriver.Firefox()
+pcbrowser.get('')
 
 '''
 1. 输入账号；
